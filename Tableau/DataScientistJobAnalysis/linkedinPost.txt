@@ -1,0 +1,12 @@
+🌍💼 Exploring the Global Salary Landscape in Data Science 💼🌍
+
+Thrilled to share my latest Tableau project where I visualized the distribution of the Data Science field across the world using a dataset! 📊
+
+From country-wise comparisons to various types of employment, from employee experience levels to top companies by size and location, from average salary based on job title to the number of employees from different countries—this dashboard offers a clear and interactive view into how data science professionals are compensated globally.
+
+🔧 Tools Used: Tableau
+📁 Data Source: CSV dataset (Kaggle)
+
+Check out the dashboard and let me know your thoughts—I’d love to hear your feedback! 💬
+
+#Tableau #DataScience #GlobalData #DashboardDesign #DataVisualization #Analytics
